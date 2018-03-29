@@ -53,6 +53,8 @@ def DM_(zs=1,nz=201):
 mps_zs = np.arange(26.)/10 #list of redshifts we have matter power spectrum for
 
 #Calculate discrete version of Integral I (see yinzhe's notes)
+#Matter power spectrum computed from public code CAMB with Planck best-fitting cosmological parameters
+# Planck 2015 results. XIII. Cosmological parameters: http://adsabs.harvard.edu/abs/2016A%26A...594A..13P
 
 I = []
 

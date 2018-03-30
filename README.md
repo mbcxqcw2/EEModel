@@ -6,7 +6,7 @@ Allows testing of different host galaxy and intergalactic medium (IGM) models an
 
 The model makes use of FRBcat ((Petroff et al., 2016; arXiv:1601.03547; http://frbcat.org/), CAMB (https://camb.info/) and Planck Collaboration (arXiv:1502.01589) data.
 
-A jupyter notebook containing the model and examples of its use are accessible via Binder:
+A jupyter notebook containing the model and examples of its use can be launched using Binder:
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/mbcxqcw2/EEModel/master)
 

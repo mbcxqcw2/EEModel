@@ -1,8 +1,10 @@
 # EEModel
 
-A model for analysis of the excess DM component of extragalactic Fast Radio Bursts.
+A framework for analysing the excess dispersion measure (DM) component of extragalactic Fast Radio Bursts (FRBs).
 
-A jupyter notebook containing the model, and examples of its use are accessible Binder:
+Allows testing of different host galaxy and intergalactic medium (IGM) models, and constraining of FRB redshifts via their DMs.
+
+A jupyter notebook containing the model and examples of its use are accessible via Binder:
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/mbcxqcw2/EEModel/master)
 

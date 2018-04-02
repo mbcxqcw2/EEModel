@@ -12,5 +12,5 @@ A jupyter notebook containing the model and examples of its use can be launched 
 
 The model is citable via Zenodo:
 
-[![Zenodo](https://zenodo.org/badge/DOI/10.5281/zenodo.1210114.svg)](https://doi.org/10.5281/zenodo.1210114)
+[![Zenodo](https://zenodo.org/badge/DOI/10.5281/zenodo.1209920.svg)](https://doi.org/10.5281/zenodo.1209920)
 
